@@ -1,0 +1,54 @@
+- [ ] Faire des "mondes" avec 4 auteurs à chaque fois
+- Archaïque : 
+  - Thalès
+  - Parménide
+  - Héraclite
+  - Zénon
+- Antique :
+  - Platon
+  - Aristote
+  - Épicuriens
+  - Stoïciens
+- Médiéval :
+  - Plotin
+  - Augustin
+  - Anselme de Canterbury
+  - Thomas d'Aquin
+- Renaissance :
+  - Nicolas de Cues
+  - René Descartes
+  - Spinoza 
+  - Leibniz
+- Continentale :
+  - Locke
+  - Berkeley
+  - Hume
+  - Kant
+- Idéalisme allemand :
+  - Fichte
+  - Schelling
+  - Hegel
+  - Comte
+- Philo du doute :
+  - Marx
+  - Freud
+  - Bergson
+  - Nietzsche
+- Contemporaine
+  - Husserl
+  - Heidegger
+  - Karl Jaspers
+  - Aujourd'hui
+ 
+- [ ] Différents types de niveaux (Quizz, Exercices de rédaction courte backés par IA, etc.)
+- [ ] Déboquer les mondes au fur et à mesure
+- [ ] Boss à la fin de chaque niveau
+- [ ] Menu mobile en bas [1][2]¤[3][4]
+  - [ ] 1 : Accueil
+    - [ ] Voir le score, les médails, les quêtes en cours, le leaderboard
+  - [ ] 2 : Quêtes
+    - [ ] Voir les quêtes en cours, le % de complétion
+  - [ ] 3 : Profile
+    - [ ] Voir nom prénom niveau rang etc
+  - [ ] 4 : Agora
+    - [ ] Parler aux philosophes via IA, on les débloque au fur et à mesure de la complétion
